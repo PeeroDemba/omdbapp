@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  font-family: "Outfit", sans-serif;
+  scrollbar-color: #ffffff #161d2f;
+}
